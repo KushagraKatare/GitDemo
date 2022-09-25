@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="135" started-at="2022-01-24T23:08:48 IST" finished-at="2022-01-24T23:08:49 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="135" started-at="2022-01-24T23:08:48 IST" finished-at="2022-01-24T23:08:49 IST">
+      <class name="RahulShettyTraining.MavenJava.AppiumTest">
+        <test-method status="PASS" signature="IOSApps()[pri:0, instance:RahulShettyTraining.MavenJava.AppiumTest@34cd072c]" name="IOSApps" duration-ms="0" started-at="2022-01-24T23:08:49 IST" finished-at="2022-01-24T23:08:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApps -->
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:RahulShettyTraining.MavenJava.AppiumTest@34cd072c]" name="NativeAppAndroid" duration-ms="3" started-at="2022-01-24T23:08:49 IST" finished-at="2022-01-24T23:08:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+      </class> <!-- RahulShettyTraining.MavenJava.AppiumTest -->
+      <class name="RahulShettyTraining.MavenJava.SeleniumTest">
+        <test-method status="PASS" signature="browserAutomation()[pri:0, instance:RahulShettyTraining.MavenJava.SeleniumTest@59e5ddf]" name="browserAutomation" duration-ms="7" started-at="2022-01-24T23:08:48 IST" finished-at="2022-01-24T23:08:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserAutomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:RahulShettyTraining.MavenJava.SeleniumTest@59e5ddf]" name="elementsUI" duration-ms="2" started-at="2022-01-24T23:08:48 IST" finished-at="2022-01-24T23:08:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- RahulShettyTraining.MavenJava.SeleniumTest -->
+      <class name="RahulShettyTraining.MavenJava.RestAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:RahulShettyTraining.MavenJava.RestAPITest@11438d26]" name="deleteTwitter" duration-ms="2" started-at="2022-01-24T23:08:49 IST" finished-at="2022-01-24T23:08:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJIRA()[pri:0, instance:RahulShettyTraining.MavenJava.RestAPITest@11438d26]" name="postJIRA" duration-ms="1" started-at="2022-01-24T23:08:49 IST" finished-at="2022-01-24T23:08:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJIRA -->
+      </class> <!-- RahulShettyTraining.MavenJava.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
